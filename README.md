@@ -26,8 +26,6 @@
   <img src="assets/about-stack-light.png" alt="Developer of powerful software. Developer at VoidTools.cc / VoidTools.software. Languages and tools: Lua, Python, C++, C#, Visual Studio and VS Code." width="100%">
 </picture>
 
-<p><a href="https://voidtools.cc/">VoidTools.cc</a> / <a href="https://voidtools.software/">VoidTools.software</a></p>
-
 ### Selected projects
 
 <p>
